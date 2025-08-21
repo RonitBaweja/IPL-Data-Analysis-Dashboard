@@ -51,7 +51,7 @@ An interactive Power BI dashboard analyzing Indian Premier League (IPL) data. Th
 ![Main Page](https://github.com/RonitBaweja/IPL-Data-Analysis-Dashboard/blob/main/dashboard/Main_Page.png)
 
 ### Year-wise Page
-![Yearwise Page](https://github.com/RonitBaweja/IPL-Data-Analysis-Dashboard/blob/main/dashboard/YearWise_Page.png)
+![Yearwise Page](https://github.com/RonitBaweja/IPL-Data-Analysis-Dashboard/blob/main/dashboard/Yearwise_Page.png)
 
 ### Player-wise Page
 ![Players Page](https://github.com/RonitBaweja/IPL-Data-Analysis-Dashboard/blob/main/dashboard/Players_Page.png)
