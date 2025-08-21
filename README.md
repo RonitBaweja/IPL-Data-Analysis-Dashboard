@@ -72,4 +72,4 @@ An interactive Power BI dashboard analyzing Indian Premier League (IPL) data. Th
 - [bawejaronit164@gmail.com]
   
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License].
